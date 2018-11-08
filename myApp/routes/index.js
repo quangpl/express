@@ -5,11 +5,22 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
-router.get('/test_node',function(req,res,next){
-	res.render('test',{quang:'Learning NodeJS and Express .Frist step !'});
-});
+// router.get('/test_node',function(req,res,next){
+// 	res.render('test',{quang:'Learning NodeJS and Express .Frist step !'});
+// });
 router.get('/home',function (req,res,next) {
     res.render('home');
+})
+router.get('/form',function (req,res,next) {
+    res.render('form');
+})
+router.post('/process',function (req,res) {
+    var first=req.body.firstname;
+    if(first)
+    {
+        res.redirect(301,'/');
+    }
+
 })
 router.get('*',function (req,res) {
     res.send("404 NOT FOUND !");

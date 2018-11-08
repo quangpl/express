@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7637e561-7fe4-4647-b47c-05311073e77b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myApp/views/test.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/myApp/views/form.ejs" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="879748111">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ejs" value="6" />
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+          <entry key="www" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="EJS" value="6" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ejs" value="95" />
+          <entry key="js" value="236" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="EJS" value="95" />
+          <entry key="JavaScript" value="236" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myApp/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/views/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-867" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/models/FoodModels.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/views/form.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myApp/views/test.ejs" />
+        <option value="$PROJECT_DIR$/myApp/views/form.ejs" />
+        <option value="$PROJECT_DIR$/myApp/routes/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/myApp/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/myApp/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/buffer-shims/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/ejs/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/hooks-fixed/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/examples/aggregate/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/examples/express/connection-sharing/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/examples/geospatial/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/examples/lean/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/examples/mapreduce/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/examples/promises/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/examples/querybuilder/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/examples/replicasets/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mpromise/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mquery/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/muri/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/myApp/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/myApp/package.json" />
+      <path value="$PROJECT_DIR$/myApp/public/vendor/fontawesome-free/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/ejs/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/express-generator/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/sorted-object/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="1012" />
+    <option name="width" value="428" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="express" type="b2602c69:ProjectViewProjectNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="express" type="b2602c69:ProjectViewProjectNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="express" type="b2602c69:ProjectViewProjectNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="express" type="b2602c69:ProjectViewProjectNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="express" type="b2602c69:ProjectViewProjectNode" />
+              <item name="express" type="462c0819:PsiDirectoryNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7637e561-7fe4-4647-b47c-05311073e77b" name="Default Changelist" comment="" />
+      <created>1541651443515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541651443515</updated>
+      <workItem from="1541651444655" duration="1754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1754000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="618" y="0" width="822" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2596754" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myApp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/views/home.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/views/error.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/views/form.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/models/FoodModels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
