@@ -13,6 +13,10 @@ router.get('/home',function (req,res,next) {
 })
 router.get('/form',function (req,res,next) {
     res.render('form');
+    setTimeout(()=>{
+       console.log('Set timeout!');
+    },1000);
+
 })
 router.post('/process',function (req,res) {
     var first=req.body.firstname;
