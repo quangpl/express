@@ -1,16 +1,16 @@
+const http=require('http');
+const server=http.createServer((req,res)=>{
+    res.write("ok");
+    console.log('Connect')
+    res.end();
+    console.log('Connect End')
+}).listen(9090)
 
-const mysql=require('mysql');
-const option={
-    user:'root',
-    password:'',
-    database:'nodejs'
-}
+const io=require('socket');
+io.on('start',()=>{
+    console.log('Start system');
 
-const connection=mysql.createConnection(option);
-connection.connect(err=>{
-    if(err) {
-        console.log('LOi');
-console.log(err)
-    }
-    else console.log('OK')
+})
+io.emit('start',()=>{
+    console.log('System has been started');
 })
